@@ -14,6 +14,9 @@
  * License for the specific language governing permissions and limitations
  * under the License.
  */
+ 
+ phpinfo();
+ die;
 require_once('./LINEBotTiny.php');
 $channelAccessToken = 'U6++id4mj547Zzka/StPWHxE9TWU3YLRoW5UMocdfWEOxnbqO6NIwCLU8/nZD8xdAxdH9spwnRFfPAHo5vRCqO79Avlpl84U+y35LgL6+cFRZ6vfbhOa+n8gF9K+3EY1wIg9/+k5FNPcPE0bwJaIxwdB04t89/1O/w1cDnyilFU=';
 $channelSecret = '996ae268eeff17dbd5bb6693e69a880c';
